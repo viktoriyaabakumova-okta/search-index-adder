@@ -52,6 +52,7 @@
     "conventional-github-releaser": "^3.1.5",
     "cz-conventional-changelog": "^2.0.0",
     "reuters-21578-json": "^0.0.8",
+    "search-index-searcher": "git+ssh://git@github.com:viktoriyaabakumova-okta/search-index-searcher#master",
     "standard": "^8.5.0",
     "standard-changelog": "^2.0.27",
     "stopword": "^0.1.1",
